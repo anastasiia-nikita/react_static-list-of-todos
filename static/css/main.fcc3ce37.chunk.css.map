@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/TodoInfo/TodoInfo.scss"],"names":[],"mappings":"AAAA,OACE,kBAAmB","file":"main.fcc3ce37.chunk.css","sourcesContent":[".todos {\n  margin-bottom: 40px;\n}\n"]}
